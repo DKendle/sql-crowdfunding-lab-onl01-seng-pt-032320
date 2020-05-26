@@ -1,1 +1,1 @@
-CREATE TABLE crowdfunder (id INTEGER PRIMARY KEY, name TEXT, quantity INTEGER, aisle INTEGER);
+CREATE TABLE crowdfunder (id INTEGER PRIMARY KEY, name TEXT);
